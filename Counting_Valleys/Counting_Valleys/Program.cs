@@ -7,6 +7,7 @@ namespace Counting_Valleys
     class Program
     {
         // Complete the countingValleys function below.
+        // I added my solution below
         static int countingValleys(int n, string s)
         {
             int level = 0;
